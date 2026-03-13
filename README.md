@@ -28,7 +28,7 @@ If you have a strong CUDA-capable GPU and want faster parallel runs, you can use
 Note: `cuda_worker.py` currently contains a hardcoded path for one environment (`/root/double-descent/hessian-eff-dim`). Update that path to your local workspace path if needed.
 
 ## Acknowledgment and Citation
-This project uses and adapts code from [1], and applies it to sklearn's Moons dataset [4].
+This project uses and adapts code from [1] and applies it to sklearn's Moons dataset [4].
 
 ## References:
 1. Maddox, W. J., Benton, G., & Wilson, A. G. (2020). Rethinking parameter counting in deep models: Effective dimensionality revisited. arXiv preprint arXiv:2003.02139.
